@@ -25,6 +25,17 @@ export default {
           programmingLanguage: "Python",
           technologies: ["NLTK", "GloVe", "Word2vec"],
           pageURL: "https://tj-coding.info/projectPage/career/index.html"
+        },
+        {
+          id: 1,
+          thumbNailURL: "https://tj-coding.info/resource/career-thumbnail.gif",
+          title: "Natural language processing",
+          subTitle: "NLP",
+          description:
+            "Suitable career path for the fictional character Tintin was found using NLP techniques. The program was then used on myself to determine suitable career path.",
+          programmingLanguage: "Python",
+          technologies: ["NLTK", "GloVe", "Word2vec"],
+          pageURL: "https://tj-coding.info/projectPage/career/index.html"
         }
       ]
     };
